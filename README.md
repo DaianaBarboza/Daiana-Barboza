@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋 soy, Daiana</h1>
-<h2 align="center">https://drive.google.com/file/d/1PmU0jYAFyAvaSjtE5V18XvUcjGItYE2p/view?usp=sharing</h2>
 <h3 align="center">Tester QA Manual con experiencia en proyectos colaborativos, APIs y validación de funcionalidades</h3>
 
 
