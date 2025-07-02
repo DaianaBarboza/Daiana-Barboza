@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋 soy, Daiana</h1>
+<h2 align="center">Banner.png</h2>
 <h3 align="center">Tester QA Manual con experiencia en proyectos colaborativos, APIs y validación de funcionalidades</h3>
+
 
 - 👯 I’m looking to collaborate on **Proyectos de testing QA (manual o con enfoque en APIs), y en iniciativas que involucren automatización.**
 
